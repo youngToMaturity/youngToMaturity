@@ -1,5 +1,6 @@
 # Hi! I'm Young from Seoul
 ### Studied @ 42SEOUL! (21.11 ~ 22.7)
+[![Peer Connect Profile](https://www.peer-connect.co.kr/api/badge/8889a5cd-e07b-4274-a4bf-13fb78cd8c84)](https://www.peer-connect.co.kr/members/8889a5cd-e07b-4274-a4bf-13fb78cd8c84)
 ### Working as iOS Developer (22.7 ~ )
 ### 💻 I've Experienced..
 ## 
